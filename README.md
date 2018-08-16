@@ -1,1 +1,1 @@
-# Prime Kidz WordPress Theme
+# primekidz
